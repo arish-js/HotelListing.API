@@ -60,6 +60,14 @@ namespace HotelListing.API.Data
                     Address = "Nassua",
                     CountryId = 2,
                     Rating = 4
+                },
+                new Hotel
+                {
+                    Id = 4,
+                    Name = "Royal Thales",
+                    Address = "Japan",
+                    CountryId = 8,
+                    Rating = 3
                 }
             );
         }
